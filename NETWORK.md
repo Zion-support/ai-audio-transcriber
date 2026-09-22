@@ -1,14 +1,15 @@
 # 🌐 Zion App Network — Interlinks
 
-**ai-audio-transcriber** — speech-to-text with diarization and summaries. Part of the Zion Tech Group app network (630+ apps).
+**ai-audio-transcriber** is part of the Zion Tech Group app network (630+ apps).
 
 - 📇 [Master Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md)
 - 🗂️ Category: [Content & Marketing](https://github.com/Zion-support/zion-network/blob/main/network/content-marketing.md)
 
 ## Related apps
-- [ai-audio-engine](https://github.com/Zion-support/ai-audio-engine) — AI audio processing
-- [zion-ai-call-analytics](https://github.com/Zion-support/zion-ai-call-analytics) — call insights
-- [voice-agent-studio](https://github.com/Zion-support/voice-agent-studio) — voice agents
+- [ai-advertising-optimizer](https://github.com/Zion-support/ai-advertising-optimizer) — AI Advertising Optimizer
+- [ai-audio-engine](https://github.com/Zion-support/ai-audio-engine) — AI audio processing and sound design
+- [ai-avatar-generator](https://github.com/Zion-support/ai-avatar-generator) — 3D avatars and digital identities
+- [ai-caption-generator](https://github.com/Zion-support/ai-caption-generator) — Social media captions with AI
 - [zion-network](https://github.com/Zion-support/zion-network) — network hub
 
 ---
